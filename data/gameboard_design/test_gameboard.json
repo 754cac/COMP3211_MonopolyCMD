@@ -1,0 +1,36 @@
+{
+    "enforce_square_design": true,
+    "size": 20,
+    "properties": [
+        {
+            "location": 2,
+            "name": "Hung Hom",
+            "price": 1000,
+            "rent": 100,
+            "role": "property",
+            "is_ownable": "True"
+        },
+        {
+            "location": 20,
+            "name": "North Point",
+            "price": 500,
+            "rent": 50,
+            "role": "property",
+            "is_ownable": "True"
+        }
+    ],
+    "functions": [
+        {
+            "location": 1,
+            "name": "Go",
+            "role": "function",
+            "is_ownable": false
+        },
+        {
+            "location": 5,
+            "name": "Income Tax",
+            "role": "function",
+            "is_ownable": false
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "game_state": {
+        "game_id": "UmlHQSfbcfYe",
+        "game_over": false,
+        "current_round": 8,
+        "current_player_id": "x0m7KeQGm"
+    },
+    "player_orders": {
+        "1": "x0m7KeQGm",
+        "2": "QgCWKGdaB"
+    },
+    "game_parameters": {
+        "random_player_orders": false,
+        "chance_multiplier": 10,
+        "jailbreak_price": 150,
+        "tax_amount_rate": 0.1,
+        "go_money": 1500,
+        "maximum_rounds": 100,
+        "minimum_player": 2,
+        "maximum_player": 6
+    },
+    "players": {
+        "x0m7KeQGm": {
+            "name": "1",
+            "id": "x0m7KeQGm",
+            "location": 6,
+            "money": 650,
+            "owned_properties": [
+                12
+            ],
+            "is_jailed": true,
+            "jailed_rounds_count_down": 3,
+            "is_retired": false,
+            "gameboard_size": 20,
+            "game_id": "UmlHQSfbcfYe"
+        },
+        "QgCWKGdaB": {
+            "name": "2",
+            "id": "QgCWKGdaB",
+            "location": 20,
+            "money": 1190,
+            "owned_properties": [
+                15,
+                20,
+                10,
+                14
+            ],
+            "is_jailed": false,
+            "jailed_rounds_count_down": 3,
+            "is_retired": false,
+            "gameboard_size": 20,
+            "game_id": "UmlHQSfbcfYe"
+        }
+    },
+    "gameboard_parameters": {
+        "design_file_name": "default_gameboard.json",
+        "game_id": "UmlHQSfbcfYe"
+    }
+}
